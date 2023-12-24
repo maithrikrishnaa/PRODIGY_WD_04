@@ -11,4 +11,4 @@
 
 ### Deployment:
 
-* Live demo, click here : [ Maithri K ](https://maithrik-portfolio.netlify.app/)
+* Live demo, click here : [ Maithri K ](http://127.0.0.1:5500/#contact)
